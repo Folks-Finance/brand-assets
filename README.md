@@ -9,19 +9,19 @@ Folks Finance icon can also be used without the logotype. Please don’t use “
 
 Image | Description
 ---- | ----
-![Standard Icon](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon.png?token=GHSAT0AAAAAABSEEBHHMIFCW4GC5U7NNSAMYRFYKTA) | Standard Icon
-![Icon on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_Black.png?token=GHSAT0AAAAAABSEEBHG3JBZRUGKF4N5KFC2YRFYMCQ) | Icon on light backgrounds
-![Icon on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_White.png?token=GHSAT0AAAAAABSEEBHHOXM6L4RY7ZGLFBG2YRFYMQA) | Icon on dark backgrounds
-![Social Media Icon and $FOLKS](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_token.png?token=GHSAT0AAAAAABSEEBHH532A44GIJP4LNUVQYRFYNEQ) | Social Media Icon and $FOLKS
-![Standard Logo](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo.png?token=GHSAT0AAAAAABSEEBHG2LXBJOSXCDNM2K5SYRFYNOA) | Standard Logo
-![Logo on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_Black.png?token=GHSAT0AAAAAABSEEBHGUEWD6IG5RAWVI3YAYRFYNYQ) | Logo on light backgrounds
-![Logo on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_White.png?token=GHSAT0AAAAAABSEEBHH7TRO2FLDGI3DBIFMYRFYODQ) | Logo on dark backgrounds
+![Standard Icon](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon.png?token=GHSAT0AAAAAABSEEBHGO7HFATG3WPO5RZ7EYRFYVLQ) | Standard Icon
+![Icon on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_Black.png?token=GHSAT0AAAAAABSEEBHHP2VHQ7H77DFGKANAYRFYVXQ) | Icon on light backgrounds
+![Icon on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_White.png?token=GHSAT0AAAAAABSEEBHGFWNFX3AGNRRN6XBWYRFYWXQ) | Icon on dark backgrounds
+![Social Media Icon and $FOLKS](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_token.png?token=GHSAT0AAAAAABSEEBHH6EBNS6VXD2J2KTMCYRFYXYQ) | Social Media Icon and $FOLKS
+![Standard Logo](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo.png?token=GHSAT0AAAAAABSEEBHHKA2CGQQW6C5OTJXQYRFYYGQ) | Standard Logo
+![Logo on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_Black.png?token=GHSAT0AAAAAABSEEBHGYY76ACNXELRERB62YRFYZVQ) | Logo on light backgrounds
+![Logo on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_White.png?token=GHSAT0AAAAAABSEEBHHXP4BISCHRAE73YNIYRFY2JA) | Logo on dark backgrounds
 
 <h2> Color Palette - Main Colors</h2>
 
 Color | Web | RGB | CMYK |
 ---- | ---- | ---- | ----
-![color1](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%2331d4f0.png?token=GHSAT0AAAAAABSEEBHGXODA5FELKT5QQC62YRFYOZA) | #31d4f0 | 49 - 212 - 240 | 62% - 0% - 10% - 0%
+![color1](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%2331d4f0.png?token=GHSAT0AAAAAABSEEBHG7QYHWMA2TDW3V7SMYRFY3BA) | #31d4f0 | 49 - 212 - 240 | 62% - 0% - 10% - 0%
 ![color2](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%230069c5.png?token=GHSAT0AAAAAABSEEBHHFPB6VKNIA7XU5UJYYRFYPRQ) | #0069c5 | 0 - 105 - 197 | 62% - 0% - 10% - 0%
 
 The main and constant color of Folks Finance brand is Blue and Light Blue. Blue is the prevailing color on Dapp while light blue is mostly used in textual parts.
