@@ -10,12 +10,13 @@ Folks Finance icon can also be used without the logotype. Please don’t use “
 Image | Description 
 :----: | :----:
 <img width="180" alt="FolksFinance_Icon" src="https://user-images.githubusercontent.com/84501430/156998445-fa944d3a-87e7-46cb-a7f6-9b09e5d27512.png"> | Standard Icon
-<img width="180" alt="FolksFinance_Icon_Black" src="https://user-images.githubusercontent.com/84501430/156999815-12006a63-e030-4893-a656-5ebc95d36a36.png"> | Icon on light backgrounds
 <img width="180" alt="FolksFinance_Icon_White" src="https://user-images.githubusercontent.com/84501430/156999881-436b3652-e69f-4656-a3e5-ef74f7171bf8.png"> | Icon on dark backgrounds
+<img width="180" alt="FolksFinance_Icon_Black" src="https://user-images.githubusercontent.com/84501430/156999815-12006a63-e030-4893-a656-5ebc95d36a36.png"> | Icon on light backgrounds
 <img width="312" alt="FolksFinance_token" src="https://user-images.githubusercontent.com/84501430/156999949-5d855221-98fd-4175-9f67-a74a21fc72bb.png"> | Social Media Icon and $FOLKS
 <img width="631" alt="FolksFinance_Logo" src="https://user-images.githubusercontent.com/84501430/156999996-066ffcbd-466d-4bbb-b272-89c2a620c29b.png"> | Standard Logo
-<img width="631" alt="FolksFinance_Logo_Black" src="https://user-images.githubusercontent.com/84501430/157000038-88a1bcf0-f3fe-4da0-9a0a-5c3ad998b0bd.png"> | Logo on light backgrounds
 <img width="631" alt="FolksFinance_Logo_White" src="https://user-images.githubusercontent.com/84501430/157000072-983d3acd-7d26-44ef-a827-9facf8a2b285.png"> | Logo on dark backgrounds
+<img width="631" alt="FolksFinance_Logo_Black" src="https://user-images.githubusercontent.com/84501430/157000038-88a1bcf0-f3fe-4da0-9a0a-5c3ad998b0bd.png"> | Logo on light backgrounds
+
 
 <h2> Color Palette - Main Colors</h2>
 
@@ -46,6 +47,7 @@ Color | Decription | Web | Gradient |
 
 <h2> Typeface </h2>
 
+![logotype](https://user-images.githubusercontent.com/84501430/157066245-c3727bac-d902-468d-8aba-95862f20523d.png)
 The fonts used are open source. 
 
 <h2> Stickers </h2>
