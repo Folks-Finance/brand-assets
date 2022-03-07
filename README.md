@@ -7,22 +7,22 @@ This repository is the primary location for downloading Folks Finance brand asse
 
 Folks Finance icon can also be used without the logotype. Please don’t use “Folks” without “Finance” or vice-versa.
 
-Image | Description
----- | ----
-![Standard Icon](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon.png?token=GHSAT0AAAAAABSEEBHGO7HFATG3WPO5RZ7EYRFYVLQ) | Standard Icon
-![Icon on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_Black.png?token=GHSAT0AAAAAABSEEBHHP2VHQ7H77DFGKANAYRFYVXQ) | Icon on light backgrounds
-![Icon on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Icon_White.png?token=GHSAT0AAAAAABSEEBHGFWNFX3AGNRRN6XBWYRFYWXQ) | Icon on dark backgrounds
-![Social Media Icon and $FOLKS](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_token.png?token=GHSAT0AAAAAABSEEBHH6EBNS6VXD2J2KTMCYRFYXYQ) | Social Media Icon and $FOLKS
-![Standard Logo](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo.png?token=GHSAT0AAAAAABSEEBHHKA2CGQQW6C5OTJXQYRFYYGQ) | Standard Logo
-![Logo on light backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_Black.png?token=GHSAT0AAAAAABSEEBHGYY76ACNXELRERB62YRFYZVQ) | Logo on light backgrounds
-![Logo on dark backgrounds](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/LOGOS/PNG/FolksFinance_Logo_White.png?token=GHSAT0AAAAAABSEEBHHXP4BISCHRAE73YNIYRFY2JA) | Logo on dark backgrounds
+Image | Description 
+:----: | :----:
+<img width="180" alt="FolksFinance_Icon" src="https://user-images.githubusercontent.com/84501430/156998445-fa944d3a-87e7-46cb-a7f6-9b09e5d27512.png"> | Standard Icon
+<img width="180" alt="FolksFinance_Icon_Black" src="https://user-images.githubusercontent.com/84501430/156999815-12006a63-e030-4893-a656-5ebc95d36a36.png"> | Icon on light backgrounds
+<img width="180" alt="FolksFinance_Icon_White" src="https://user-images.githubusercontent.com/84501430/156999881-436b3652-e69f-4656-a3e5-ef74f7171bf8.png"> | Icon on dark backgrounds
+<img width="312" alt="FolksFinance_token" src="https://user-images.githubusercontent.com/84501430/156999949-5d855221-98fd-4175-9f67-a74a21fc72bb.png"> | Social Media Icon and $FOLKS
+<img width="631" alt="FolksFinance_Logo" src="https://user-images.githubusercontent.com/84501430/156999996-066ffcbd-466d-4bbb-b272-89c2a620c29b.png"> | Standard Logo
+<img width="631" alt="FolksFinance_Logo_Black" src="https://user-images.githubusercontent.com/84501430/157000038-88a1bcf0-f3fe-4da0-9a0a-5c3ad998b0bd.png"> | Logo on light backgrounds
+<img width="631" alt="FolksFinance_Logo_White" src="https://user-images.githubusercontent.com/84501430/157000072-983d3acd-7d26-44ef-a827-9facf8a2b285.png"> | Logo on dark backgrounds
 
 <h2> Color Palette - Main Colors</h2>
 
 Color | Web | RGB | CMYK |
 ---- | ---- | ---- | ----
-![color1](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%2331d4f0.png?token=GHSAT0AAAAAABSEEBHG7QYHWMA2TDW3V7SMYRFY3BA) | #31d4f0 | 49 - 212 - 240 | 62% - 0% - 10% - 0%
-![color2](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%230069c5.png?token=GHSAT0AAAAAABSEEBHHFPB6VKNIA7XU5UJYYRFYPRQ) | #0069c5 | 0 - 105 - 197 | 62% - 0% - 10% - 0%
+![#31d4f0](https://user-images.githubusercontent.com/84501430/157000298-c768d1ae-43e1-4a37-8e46-fec017af9181.png) | #31d4f0 | 49 - 212 - 240 | 62% - 0% - 10% - 0%
+![#0069c5](https://user-images.githubusercontent.com/84501430/157000384-c593e934-9dc7-4638-8e11-03a6541f29dd.png) | #0069c5 | 0 - 105 - 197 | 62% - 0% - 10% - 0%
 
 The main and constant color of Folks Finance brand is Blue and Light Blue. Blue is the prevailing color on Dapp while light blue is mostly used in textual parts.
 
@@ -30,10 +30,10 @@ The main and constant color of Folks Finance brand is Blue and Light Blue. Blue 
 
 Color | Web | RGB | CMYK |
 ---- | ---- | ---- | ----
-![color3](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%23ACCDF2.png?token=GHSAT0AAAAAABSEEBHGJLSXP65AHDNHBEWKYRFYQGA) | #ACCDF2 | 172 - 206 - 242 | 29% - 15% - 0% - 5%
-![color4](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%230B7ECD.png?token=GHSAT0AAAAAABSEEBHG7PLZMG7WJH564YPIYRFYQSA) | #0B7ECD | 1 - 124 - 204 | 95% - 39% - 0% - 20%
-![color5](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%23001A59.png?token=GHSAT0AAAAAABSEEBHGTXH2U4ZD4I2DRJ5MYRFYQ5Q) | #001A59 | 0 - 26 - 89 | 100% - 71% - 0% - 65%
-![color6](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/%2311141E.png?token=GHSAT0AAAAAABSEEBHGXAYONRLQFF3STRBOYRFYRRQ) | #11141E | 17 - 20 - 30 | 43% - 33% - 0% - 88%
+![#ACCDF2](https://user-images.githubusercontent.com/84501430/157000438-d9d639dd-5ca2-4017-bc73-836627002ccc.png) | #ACCDF2 | 172 - 206 - 242 | 29% - 15% - 0% - 5%
+![#0B7ECD](https://user-images.githubusercontent.com/84501430/157000478-96b3c1f7-c69d-4011-bf04-9084e811eb30.png) | #0B7ECD | 1 - 124 - 204 | 95% - 39% - 0% - 20%
+![#001A59](https://user-images.githubusercontent.com/84501430/157000519-f71c732b-b3c7-4633-a5f8-1753818c01fc.png) | #001A59 | 0 - 26 - 89 | 100% - 71% - 0% - 65%
+![#11141E](https://user-images.githubusercontent.com/84501430/157000552-8b1bcb77-91f7-4cf5-84ef-c33324b73a14.png) | #11141E | 17 - 20 - 30 | 43% - 33% - 0% - 88%
 
 These are the secondary colors in addition to the primary colors. These and the tones of these colors can be used as supporting colors while creating any visual asset.
 
@@ -41,8 +41,8 @@ These are the secondary colors in addition to the primary colors. These and the 
 
 Color | Secription | Web | Gradient |
 ---- | ---- | ---- | ----
-![color7](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/Logo%20Gradient.png?token=GHSAT0AAAAAABSEEBHH7ESW2UERP4QLPYJAYRFYSBQ) | Blue to Light Blue | #31d4f0 to #0069c5 | Linear
-![color8](https://raw.githubusercontent.com/Folks-Finance/brand-assets/main/COLORIMETRY_GRADIENTS/Others%20Gradient.png?token=GHSAT0AAAAAABSEEBHHVBZ2ITFNOXYRIL4GYRFYSMA) | Light Blue to Dark Blue | #ACCDF2 to #11141E | Linear
+<img width="594" alt="Logo Gradient" src="https://user-images.githubusercontent.com/84501430/157000651-30fda822-7be2-48af-a988-efee81dd03a5.png"> | Blue to Light Blue | #31d4f0 to #0069c5 | Linear
+<img width="594" alt="Others Gradient" src="https://user-images.githubusercontent.com/84501430/157000703-86230c7e-ec6f-476f-95f2-c9dfaf2ef23f.png"> | Light Blue to Dark Blue | #ACCDF2 to #11141E | Linear
 
 <h2> Typeface </h2>
 
