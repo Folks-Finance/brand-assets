@@ -39,7 +39,7 @@ These are the secondary colors in addition to the primary colors. These and the 
 
 <h2> Gradient Palette </h2>
 
-Color | Secription | Web | Gradient |
+Color | Decription | Web | Gradient |
 ---- | ---- | ---- | ----
 <img width="594" alt="Logo Gradient" src="https://user-images.githubusercontent.com/84501430/157000651-30fda822-7be2-48af-a988-efee81dd03a5.png"> | Blue to Light Blue | #31d4f0 to #0069c5 | Linear
 <img width="594" alt="Others Gradient" src="https://user-images.githubusercontent.com/84501430/157000703-86230c7e-ec6f-476f-95f2-c9dfaf2ef23f.png"> | Light Blue to Dark Blue | #ACCDF2 to #11141E | Linear
