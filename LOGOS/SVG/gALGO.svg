@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1328px" height="1328px" viewBox="0 0 1328 1328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="88.2360864%" y1="17.8348239%" x2="12.1545968%" y2="78.9930532%" id="linearGradient-1">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0E74CC" offset="100%"></stop>
+        </linearGradient>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="663.716388" cy="663.716388" r="663.716388"></circle>
+            <g filter="url(#filter-2)" id="frALGO">
+                <g transform="translate(285.000000, 281.000000)">
+                    <polygon id="Path" fill="#000000" fill-rule="nonzero" points="116.728087 673 214.413654 504.421387 312.099221 336.5 409.125307 167.921387 425.200154 141.221563 432.372011 167.921387 462.13107 278.910528 428.827297 336.5 331.14173 504.421387 234.033193 673 350.761269 673 448.446857 504.421387 499.061987 417.174571 522.885721 504.421387 568.142576 673 673 673 627.743145 504.421387 582.48629 336.5 570.533209 293.205195 643.158511 167.921387 537.146985 167.921387 533.602292 155.51623 496.671375 17.8272652 491.89013 0 390.082798 0 387.692186 3.53259803 292.397231 167.921387 194.794094 336.5 97.6855776 504.421387 0 673"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
