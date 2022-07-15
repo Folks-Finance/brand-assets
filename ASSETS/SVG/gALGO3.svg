@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1495px" height="1495px" viewBox="0 0 1495 1495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gALGO</title>
+    <defs>
+        <circle id="path-1" cx="747.5" cy="747.5" r="747.5"></circle>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0D74CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gALGO">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#000000" xlink:href="#path-1"></use>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="340.10585 1178 495.85119 909.226074 651.596529 641.5 806.290423 372.726074 831.919413 330.157113 843.35389 372.726074 890.800355 549.682015 837.702363 641.5 681.957023 909.226074 527.131673 1178 713.237506 1178 868.98288 909.226074 949.681296 770.123796 987.664752 909.226074 1059.82018 1178 1227 1178 1154.84457 909.226074 1082.68914 641.5 1063.6317 572.47277 1179.42211 372.726074 1010.40225 372.726074 1004.75076 352.947868 945.869815 133.422965 938.246819 105 775.929929 105 772.118448 110.632211 620.18459 372.726074 464.570673 641.5 309.745356 909.226074 154 1178"></polygon>
+            <circle id="Oval" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="1149.5" cy="1149.5" r="345.5"></circle>
+            <text id="3" mask="url(#mask-2)" font-family="Poppins-Bold, Poppins" font-size="650" font-weight="bold" letter-spacing="13.0000001" fill="#FFFFFF">
+                <tspan x="912.875" y="1325">3</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

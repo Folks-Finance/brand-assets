@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1607px" height="1607px" viewBox="0 0 1607 1607" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fgALGO</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0D73CB" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="804.5" cy="801.5" r="747.5"></circle>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0D74CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fgALGO">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="803.5" cy="803.5" r="803.5"></circle>
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Oval" fill="#000000" xlink:href="#path-2"></use>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)" points="397.10585 1232 552.85119 963.226074 708.596529 695.5 863.290423 426.726074 888.919413 384.157113 900.35389 426.726074 947.800355 603.682015 894.702363 695.5 738.957023 963.226074 584.131673 1232 770.237506 1232 925.98288 963.226074 1006.6813 824.123796 1044.66475 963.226074 1116.82018 1232 1284 1232 1211.84457 963.226074 1139.68914 695.5 1120.6317 626.47277 1236.42211 426.726074 1067.40225 426.726074 1061.75076 406.947868 1002.86982 187.422965 995.246819 159 832.929929 159 829.118448 164.632211 677.18459 426.726074 521.570673 695.5 366.745356 963.226074 211 1232"></polygon>
+            <circle id="Oval" fill="url(#linearGradient-4)" mask="url(#mask-3)" cx="1206.5" cy="1203.5" r="345.5"></circle>
+            <text id="3" mask="url(#mask-3)" font-family="Poppins-Bold, Poppins" font-size="650" font-weight="bold" letter-spacing="13.0000001" fill="#FFFFFF">
+                <tspan x="969.875" y="1379">3</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

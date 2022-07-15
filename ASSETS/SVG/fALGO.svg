@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1495px" height="1495px" viewBox="0 0 1495 1495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0D73CB" offset="100%"></stop>
+        </linearGradient>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ICO-FINALI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="747.5" cy="747.5" r="747.5"></circle>
+            <g id="Group" transform="translate(106.000000, 102.000000)">
+                <circle id="Oval" fill="#000000" cx="646" cy="646" r="646"></circle>
+                <g filter="url(#filter-2)" id="frALGO">
+                    <g transform="translate(221.000000, 186.000000)">
+                        <polygon id="Path" fill="#000000" fill-rule="nonzero" points="140.316526 809 257.742416 606.35498 375.168306 404.5 491.801447 201.85498 511.124702 169.75965 519.74585 201.85498 555.518627 335.272833 515.484819 404.5 398.05893 606.35498 281.326676 809 421.64319 809 539.069105 606.35498 599.912552 501.477308 628.550591 606.35498 682.952962 809 809 809 754.597629 606.35498 700.195258 404.5 685.826695 352.45617 773.128136 201.85498 645.693775 201.85498 641.43277 186.942987 597.038845 21.4298032 591.291404 0 468.910823 0 466.037115 4.24646628 351.484933 201.85498 234.158131 404.5 117.425902 606.35498 0 809"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

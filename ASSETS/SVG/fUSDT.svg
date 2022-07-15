@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1495px" height="1495px" viewBox="0 0 1495 1495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1D9DD8" offset="0%"></stop>
+            <stop stop-color="#0D73CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ICO-FINALI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="747.5" cy="747.5" r="747.5"></circle>
+            <g id="Group" transform="translate(106.000000, 102.000000)" fill="#000000">
+                <circle id="Oval" cx="646" cy="646" r="646"></circle>
+            </g>
+            <g id="usdt" transform="translate(106.000000, 101.000000)" fill-rule="nonzero">
+                <path d="M1295,647.500517 C1295,1005.11298 1005.11632,1295 647.502969,1295 C289.898968,1295 0,1005.11298 0,647.500517 C0,289.89212 289.898968,0 647.502969,0 C1005.11632,0 1295,289.89212 1295,647.500517 Z" id="Path" fill="#1BA27A"></path>
+                <polygon id="Path" fill="#FFFFFF" points="958 321 344 321 344 469.59608 576.885456 469.59608 576.885456 688 725.11658 688 725.11658 469.59608 958 469.59608"></polygon>
+                <path d="M653.003049,716.635875 C460.694204,716.635875 304.779255,686.134958 304.779255,648.498824 C304.779255,610.87084 460.686072,580.361774 653.003049,580.361774 C845.315961,580.361774 1001.22359,610.87084 1001.22359,648.498824 C1001.22359,686.134958 845.315961,716.635875 653.003049,716.635875 Z M1044,659.859753 C1044,611.331308 868.946461,572 653.003049,572 C437.06777,572 262,611.331308 262,659.859753 C262,702.593636 397.743235,738.196375 577.618828,746.085457 L577.618828,1059 L725.577795,1059 L725.577795,746.207705 C906.839829,738.56312 1044,702.813682 1044,659.859753 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
