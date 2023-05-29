@@ -25,7 +25,7 @@ Color | Folks Finance Version| Web | RGB | CMYK |
 ![#11141E](https://github.com/Folks-Finance/brand-assets/assets/67144388/d4318db7-5aa5-4471-9637-63e6a127ab57) | V2 | #11141E | 17-20-30 | 43%-33%-0%-88%
 ![#FFFFFF](https://github.com/Folks-Finance/brand-assets/assets/67144388/3d13bdd7-699d-4b78-943c-1d088c855a0e) | V2 | #FFFFFF | 255-255-255 | 0%-0%-0%-0%
 ![#5DBCEB](https://github.com/Folks-Finance/brand-assets/assets/67144388/34f8ffae-dc77-420e-bd92-4a0f4afcb8dd) | V2 | #5DBCEB | 93-188-235 | 60%-20%-0%-8%
-![#31d4f0](https://user-images.githubusercontent.com/84501430/157000298-c768d1ae-43e1-4a37-8e46-fec017af9181.png) | V1 | #31d4f0 | 49-212-240 | 62%-0%-10%-0%
+![#31D4F0](https://user-images.githubusercontent.com/84501430/157000298-c768d1ae-43e1-4a37-8e46-fec017af9181.png) | V1 | #31D4F0 | 49-212-240 | 62%-0%-10%-0%
 ![#0069c5](https://user-images.githubusercontent.com/84501430/157000384-c593e934-9dc7-4638-8e11-03a6541f29dd.png) | V1 | #0069c5 | 0 - 105 - 197 | 62% - 0% - 10% - 0%
 
 The main and constant color of Folks Finance brand is Blue and Light Blue. Blue is the prevailing color on Dapp while light blue is mostly used in textual parts.
