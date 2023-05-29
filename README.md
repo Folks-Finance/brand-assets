@@ -12,9 +12,9 @@ Image | Description
 <img width="180" alt="FolksFinance_Icon" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/d289f6a7-3de4-45a5-bcb2-7f4804076444"> |  Standard Icon
 <img width="180" alt="FolksFinance_Icon_White" src="https://user-images.githubusercontent.com/84501430/156999881-436b3652-e69f-4656-a3e5-ef74f7171bf8.png"> | Icon on dark backgrounds
 <img width="180" alt="FolksFinance_Token" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/8b765596-da2a-4d22-ada4-11801c878286"> | $FOLKS
-<img width="180" alt="FolksFinance_SocialMedia" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/89d3b382-4b22-4ccf-ad71-2b07dcd7f5f2"> | Social Media Icon and 
+<img width="180" alt="FolksFinance_SocialMedia" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/89d3b382-4b22-4ccf-ad71-2b07dcd7f5f2"> | Social Media Icon 
 <img width="631" alt="FolksFinance_Logo" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/2f40b3e9-b865-41e0-819a-2b564cc04bcc"> | Standard Logo
-<img width="631" alt="FolksFinance_Logo_Black" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/e31ede74-6f43-4989-b76a-300e8926e913"> | Logo on light backgrounds
+<img width="631" alt="FolksFinance_Logo_Black" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/e31ede74-6f43-4989-b76a-300e8926e913"> | Logo on dark backgrounds
 
 
 <h2> Color Palette - Main Colors</h2>
