@@ -9,12 +9,14 @@ Folks Finance icon can also be used without the logotype. Please don’t use “
 
 Image | Description 
 :----: | :----:
-<img width="180" alt="FolksFinance_Icon" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/d289f6a7-3de4-45a5-bcb2-7f4804076444"> |  Standard Icon
-<img width="180" alt="FolksFinance_Icon_White" src="https://user-images.githubusercontent.com/84501430/156999881-436b3652-e69f-4656-a3e5-ef74f7171bf8.png"> | Icon on dark backgrounds
-<img width="180" alt="FolksFinance_Token" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/8b765596-da2a-4d22-ada4-11801c878286"> | $FOLKS
-<img width="180" alt="FolksFinance_SocialMedia" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/89d3b382-4b22-4ccf-ad71-2b07dcd7f5f2"> | Social Media Icon 
-<img width="631" alt="FolksFinance_Logo" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/2f40b3e9-b865-41e0-819a-2b564cc04bcc"> | Standard Logo
-<img width="631" alt="FolksFinance_Logo_Black" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/e31ede74-6f43-4989-b76a-300e8926e913"> | Logo on dark backgrounds
+<img width="180" alt="FolksFinance_Icon" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/c5d02152-8ff6-400f-97f7-f867878ccb5f"> |  Standard Icon
+<img width="180" alt="FolksFinance_Icon_White" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/a48a41fb-ee54-467d-a09a-16eb74f2baad"> | Icon on dark backgrounds
+<img width="180" alt="FolksFinance_Token" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/20900b48-1ce3-4318-998a-ce853bd7da5d"> | $FOLKS
+<img width="180" alt="FolksFinance_SocialMedia" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/dbbab045-c5ac-4f90-b70f-c19379247776"> | Social Media Icon 
+<img width="631" alt="FolksFinance_Logo" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/b2497c65-4148-4709-b882-0c3a8f9ae304"> | Standard Logo
+<img width="631" alt="FolksFinance_Logo_Black" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/00b5a5f7-401b-4e38-aa03-b0737b3059aa"> | Logo on dark backgrounds
+<img width="180" alt="gAlgo" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/a8048fb8-c4c3-4af4-bea1-6bcfadc083c8"> | gAlgo
+<img width="180" alt="xAlgo" src="https://github.com/Folks-Finance/brand-assets/assets/67144388/ae982d8a-0ea3-48aa-a486-c9ba71b5d911"> | xAlgo
 
 
 <h2> Color Palette - Main Colors</h2>
