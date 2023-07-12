@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 3.55 1381.5 1376.28">
+    <linearGradient id="firsElement" x1="0" x2="1381.5" y1="714.2" y2="714.2" gradientTransform="matrix(1 0 0 -1 0 1405.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3669bb"/>
+      <stop offset=".12" stop-color="#3364b3"/>
+      <stop offset=".3" stop-color="#2c569d"/>
+      <stop offset=".52" stop-color="#214079"/>
+      <stop offset=".78" stop-color="#112248"/>
+      <stop offset="1" stop-color="#020417"/>
+    </linearGradient>
+    <linearGradient id="secondElement" x1="266.66" x2="714.08" y1="764.6" y2="764.6" gradientTransform="matrix(1 0 0 -1 0 1405.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+  <ellipse cx="690.75" cy="691.69" fill="url(#firsElement)" rx="690.75" ry="688.14"/>
+  <path fill="#fff" d="m389.75 993.23 102.08-176.69 102.58-174.77 102.58-176.69 17.09-27.85 6.84 27.85 31.75 116.19-35.17 60.5-102.57 174.77-102.58 176.69h123.09l102.58-176.69 53.24-90.75 24.91 90.75 47.87 176.69h109.41l-46.89-176.69-47.87-174.77-9.18-34.29 175.33-318.13H919.93l-91.56 164.04-39.55-145.79-5.38-18.25H676.47l-2.44 3.36L573.9 465.08 471.81 641.77 369.23 816.54 266.66 993.23h123.09z"/>
+  <path fill="url(#secondElement)" d="m714.08 437.23-37.61-147.88-409.81 703.88h123.09l324.33-556z"/>
+  <ellipse cx="690.75" cy="689.64" fill="none" stroke="#eaeaea" stroke-miterlimit="10" stroke-width="12" rx="615.14" ry="604.66"/>
+</svg>
